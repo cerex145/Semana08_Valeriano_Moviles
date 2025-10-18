@@ -104,7 +104,7 @@ fun AcercaDeScreen(navController: NavController) {
 
                     Spacer(modifier = Modifier.height(16.dp))
 
-                    Text("BAnca :P© 2025", fontSize = 14.sp)
+                    Text("Banca :P© 2025", fontSize = 14.sp)
                 }
             }
         }
